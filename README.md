@@ -44,11 +44,17 @@ O **Vocantis** é uma plataforma de orientação vocacional, criada para ajudar 
 - **Sobre** — Explica a plataforma, seus objetivos, credibilidade e possíveis parceiros (como o Centro Paula Souza).  
 - **Contato** — Informações para comunicação com a equipe do Vocantis.
 
-- ## Público-alvo  
+ 
+ ## Público-alvo  
 Estudantes em fase de escolha de curso (ensino médio ou técnico), pessoas que desejam entender suas afinidades profissionais e quem precisa de suporte para decidir que caminho acadêmico seguir.
 
-## Tecnologias  
+
+## Tecnologias 
 Embora o foco principal do Vocantis seja a orientação vocacional, o site utiliza tecnologias web estáticas, como HTML, CSS e JavaScript. A versão pública é hospedada no GitHub Pages.
+
+<div> 
+<img width="160" height="80" alt="html5 v2" src="https://github.com/user-attachments/assets/0008e88c-5064-424f-ae26-1a6688011eab" /><img width="160" height="80" alt="css3 v2" src="https://github.com/user-attachments/assets/284f87d1-d8e8-4c29-acc5-df4920185d78" /><img width="160" height="80" alt="javascript v2" src="https://github.com/user-attachments/assets/0fa85e52-6014-44e7-8dc7-fb1976b2a3c6" /><img width="160" height="80" alt="bootstrap v2" src="https://github.com/user-attachments/assets/333601a5-ea62-4e4a-a4ab-06b7c6478f4a" /><img width="160" height="80" alt="fonte awesome v2" src="https://github.com/user-attachments/assets/30630401-4308-4a02-832f-84a16931a38d" />
+</div>
 
 ## Possíveis Melhorias  
 - Adicionar autenticação para que os usuários salvem seus resultados.  
